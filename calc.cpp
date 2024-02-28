@@ -16,12 +16,14 @@ int main()
     cout<<x++ <<endl;
     cout<<y+x <<endl;
     cout<<z-- <<endl;
+    cout<<"look guys whats goin on here be happy and enjoy your na"<<endl;
     cout<<x+z<<endl;
       int p=y++;
     cout<<p*3<<endl;
     cout<<p--<<endl;
     cout<<++z<<endl;
     cout<<p+y <<endl;
+    cout<<p*y<<endl;
     return 0;
 }
 
